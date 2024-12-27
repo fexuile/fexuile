@@ -5,6 +5,3 @@
 - 👯 I’m looking to collaborate on System or Artificial Intelligence.
 - 📫 How to reach me: fexuile@gmail.com
 - 😄 Pronouns: he/him
-
-
-![](https://github-readme-stats.vercel.app/api?username=fexuile)
